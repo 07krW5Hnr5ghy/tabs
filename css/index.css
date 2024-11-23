@@ -1,0 +1,11 @@
+.tabs-container{
+    border:1px solid black;
+    border-radius: 8px;
+    padding: 20px;
+}
+.tab-content{
+    display: none;
+}
+.tab-content.active{
+    display: block;
+}
